@@ -26,7 +26,7 @@ More info [here](http://tensorflow.org).
 <!-- /MarkdownTOC -->
 
 
-<a name="github-tutorials" />
+<a name="github-tutorials"></a>
 ## Tutorials
 * [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of TensorFlow
 * [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano 
@@ -37,7 +37,7 @@ More info [here](http://tensorflow.org).
 * [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - Recurrent Neural Network classification in Tensorflow with LSTM on cellphone sensor data
 
 
-<a name="github-projects" />
+<a name="github-projects"></a>
 ## Models/Projects
 * [Show, Attend and Tell] (https://github.com/yunjey/show_attend_and_tell) - Attention Based Image Caption Generator
 * [Pretty Tensor](https://github.com/google/prettytensor) - Pretty Tensor provides a high level builder API 
@@ -64,13 +64,13 @@ More info [here](http://tensorflow.org).
 * [Character-Aware Neural Language Models](https://github.com/carpedm20/lstm-char-cnn-tensorflow) - Tensorflow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
 * [YOLO Tensorflow ++](https://github.com/thtrieu/yolotf) - Tensorflow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
 
-<a name="github-powered-by" />
+<a name="github-powered-by"></a>
 ## Powered by TensorFlow
 * [YOLO TensorFlow](https://github.com/gliese581gg/YOLO_tensorflow) - Implementation of 'YOLO : Real-Time Object Detection'
 * [Magenta](https://github.com/tensorflow/magenta) - Research project to advance the state of the art in machine intelligence for music and art generation
 
 
-<a name="libraries" />
+<a name="libraries"></a>
 ## Libraries
 * [Scikit Flow (TF Learn)](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
 * [tensorflow.rb](https://github.com/somaticio/tensorflow.rb) - TensorFlow native interface for ruby using SWIG
@@ -82,7 +82,7 @@ More info [here](http://tensorflow.org).
 * [keras](http://keras.io) - Minimal, modular deep learning library for TensorFlow and Theano
 * [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
 
-<a name="video" />
+<a name="video"></a>
 ##Videos
 * [TensorFlow Guide 1](http://bit.ly/1OX8s8Y) - A guide to installation and use
 * [TensorFlow Guide 2](http://bit.ly/1R27Ki9) - Continuation of first video
@@ -98,7 +98,7 @@ More info [here](http://tensorflow.org).
 
 
 
-<a name="papers" />
+<a name="papers"></a>
 ##Papers
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google
 * [Comparative Study of Deep Learning Software Frameworks](http://arxiv.org/abs/1511.06435) - The study is performed on several types of deep learning architectures and we evaluate the performance of the above frameworks when employed on a single machine for both (multi-threaded) CPU and GPU (Nvidia Titan X) settings
@@ -106,7 +106,7 @@ More info [here](http://tensorflow.org).
 * [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet).
 * [TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695) - This paper describes the TensorFlow dataflow model in contrast to existing systems and demonstrate the compelling performance
 
-<a name="blogs" />
+<a name="blogs"></a>
 
 ## Official announcements
 
@@ -124,7 +124,7 @@ More info [here](http://tensorflow.org).
 * [Fizz Buzz in TensorFlow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/) - A joke by Joel Grus
 
 
-<a name="community" />
+<a name="community"></a>
 ## Community
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/tensorflow)
 * [@TensorFlo on Twitter](https://twitter.com/TensorFlo)
@@ -132,7 +132,7 @@ More info [here](http://tensorflow.org).
 * [Mailing List](https://groups.google.com/a/tensorflow.org/forum/#!forum/discuss)
 
 
-<a name="books" />
+<a name="books"></a>
 ## Books
 * [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
@@ -141,7 +141,7 @@ More info [here](http://tensorflow.org).
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do) – by Aurélien Geron, former lead of the YouTube video classification team. Covers ML fundamentals, training and deploying deep nets across multiple servers and GPUs using TensorFlow, the latest CNN, RNN and Autoencoder architectures, and Reinforcement Learning (Deep Q).
 
 
-<a name="contributions" />
+<a name="contributions"></a>
 ## Contributions
 Your contributions are always welcome!
 
@@ -154,7 +154,7 @@ Also, when you noticed that listed repository should be deprecated.
 More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/master/contributing.md)
 
 
-<a name="credits" />
+<a name="credits"></a>
 ## Credits
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
